@@ -30,3 +30,6 @@ Thank you to Thomas (THOSCALLE), Sanjay (Sanjay Chopra), and Zachary (Zachary B)
 
 ## Tests
 Run 'npm test' to run a test file using Jest
+
+## Repository
+https://github.com/Achurale/Icon_SVG_Creator
